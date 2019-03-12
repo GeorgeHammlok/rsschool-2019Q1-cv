@@ -1,2 +1,2 @@
- https://GeorgeHammlok-github-account.github.io/rsschool-2019Q1-cv/cv.
+ https://GeorgeHammlok.github.io/rsschool-2019Q1-cv/cv.
  
