@@ -1,0 +1,52 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    margin: 30px;
+    padding:20px;
+    
+} 
+
+.bor {
+    border: solid 1px red;
+}
+
+.flex-item div {
+    height: 40px;
+}
+.flex-row {
+    
+    margin-right: 50px;
+   
+}
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(6, 98, 134);
+    line-height: 70px;
+}
+
+h1::before {
+    margin:30px;
+}
+
+img {
+    height: 250px;
+}
+
+p, div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px; 
+}
+
+h2 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: rgb(6, 98, 134);
+    line-height: 50px;
+    text-align:  center;
+
+}
+
